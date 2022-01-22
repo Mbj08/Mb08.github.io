@@ -1,0 +1,36 @@
+body {
+    margin:0px;
+    left: -100px;
+    background-color: skyblue;
+
+}
+.menu {
+    background-color: green;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background-position-y: 40%;
+}
+.menu a 
+{
+    text-decoration: none;
+    color: white;
+    font-size: 1.4em;
+}
+form{
+    position: absolute;
+    width: 350px;
+    height: 250px;;
+    margin-left: 525px;
+    background-color: midnightblue;
+    padding: 40px;
+    text-align: center;
+    border: 2px;
+    border-radius: 2em;
+    margin-top: 100px;
+}
+h1{
+    position: absolute;
+    margin-left: 450px;
+}
